@@ -28,4 +28,12 @@
     <color name="badgeText">#FF1A1A1A</color>
 
     <color name="icon_background">#121212</color>
+
+    <color name="backgroundDarkPremium">#0E0E10</color>
+<color name="badgeTextPremium">#1A1A1A</color>
+<color name="textOnDarkPremium">#F5F5F5</color>
+<color name="textOnDarkSecondaryPremium">#B8B8B8</color>
+<color name="cardContainerPremium">#F2EEE9</color>
+<color name="cardStrokePremium">#E2DCD5</color>
+<color name="textFooterPremium">#8A8A8A</color>
 </resources>
